@@ -1,0 +1,28 @@
+[
+  {
+    "question": {
+      "choices": ["12", "8", "11", "9"],
+      "correct_choice_index": 2,
+      "text": "How many planets are in our solar system?"
+    }
+  },
+  {
+    "question": {
+      "choices": [
+        "Elon Musk",
+        "Neil Armstrong",
+        "Jeff Bezos",
+        "Mac Zuckerberg"
+      ],
+      "correct_choice_index": 1,
+      "text": "Who was the first man on the moon?"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Mercury", "Uranus", "Neptune", "Saturn"],
+      "correct_choice_index": 3,
+      "text": "What planet is closest to the sun?"
+    }
+  }
+]
